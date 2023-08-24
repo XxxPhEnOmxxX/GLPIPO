@@ -5718,7 +5718,7 @@ msgstr[2] "Componentes"
 #: src/Computer.php:83 src/Profile.php:1012 src/Profile.php:2214
 msgid "Computer"
 msgid_plural "computers"
-msgstr[0] "PNR"
+msgstr[0] "PNRs"
 msgstr[1] "PNRs"
 msgstr[2] "PNRs"
 
