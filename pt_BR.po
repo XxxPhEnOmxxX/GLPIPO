@@ -5716,11 +5716,11 @@ msgstr[1] "Componentes"
 msgstr[2] "Componentes"
 
 #: src/Computer.php:83 src/Profile.php:1012 src/Profile.php:2214
-msgid "PNR"
-msgid_plural "PNRs"
+msgid "Computer"
+msgid_plural "computers"
 msgstr[0] "PNR"
-msgstr[1] "PNR"
-msgstr[2] "PNR"
+msgstr[1] "PNRs"
+msgstr[2] "PNRs"
 
 #: templates/pages/admin/inventory/agent.html.twig src/Agent.php:181
 msgid "Computer inventory"
