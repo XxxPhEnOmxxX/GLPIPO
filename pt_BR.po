@@ -44,7 +44,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-24 10:41+0000\n"
-"PO-Revision-Date: 2023-08-24 20:08-0300\n"
+"PO-Revision-Date: 2023-08-24 21:04-0300\n"
 "Last-Translator: Eduardo de Oliveira <eduardomozart182@gmail.com>, 2023\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/glpi/teams/1637/pt_BR/)\n"
 "Language: pt_BR\n"
@@ -4445,7 +4445,7 @@ msgstr "Abaixo"
 
 #: templates/generic_show_form.html.twig src/Peripheral.php:325 src/Phone.php:369
 msgid "Brand"
-msgstr "Marca"
+msgstr "-"
 
 #: src/DisplayPreference.php:434 src/DisplayPreference.php:585
 msgid "Bring down"
@@ -7246,9 +7246,9 @@ msgstr "Desenvolvedor"
 #: src/Peripheral.php:78 src/Dashboard/Grid.php:1177 src/Dashboard/Grid.php:1189 src/Dashboard/Grid.php:1204
 msgid "Device"
 msgid_plural "Devices"
-msgstr[0] "Dispositivo"
-msgstr[1] "Dispositivos"
-msgstr[2] "Dispositivos"
+msgstr[0] "Seções"
+msgstr[1] "Seções"
+msgstr[2] "Seções"
 
 #: src/Report.php:465
 msgid "Device 1"
@@ -7393,9 +7393,9 @@ msgstr "Dispositivo temporariamente indisponível"
 #: src/Report.php:473 src/Report.php:482 src/CommonDeviceType.php:40
 msgid "Device type"
 msgid_plural "Device types"
-msgstr[0] "Tipo de dispositivo"
-msgstr[1] "Tipos de dispositivo"
-msgstr[2] "Tipos de dispositivo"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/RuleImportAsset.php:144
 msgid "Device_id"
@@ -7412,9 +7412,9 @@ msgstr "Dispositivos dos meus grupos"
 #: src/PeripheralType.php:41
 msgid "Devices type"
 msgid_plural "Devices types"
-msgstr[0] "Tipo de dispositivo"
-msgstr[1] "Tipos de dispositivo"
-msgstr[2] "Tipos de dispositivo"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/Rule.php:276 front/dictionnary.php:44
 msgid "Dictionary"
@@ -9911,7 +9911,7 @@ msgstr[2] "Listas suspensas globais"
 #: src/Peripheral.php:381 src/Dropdown.php:2365 src/Dropdown.php:2390 src/Dropdown.php:2402 src/Dropdown.php:2404
 #: src/Dropdown.php:2473 src/Phone.php:469 src/Monitor.php:468 src/Printer.php:649
 msgid "Global management"
-msgstr "Gerência geral"
+msgstr "-"
 
 #: src/Profile.php:689
 msgid "Global right"
@@ -12829,7 +12829,7 @@ msgstr[2] "Portas de gerenciamento"
 
 #: templates/generic_show_form.html.twig src/RuleDictionnaryPrinter.php:110
 msgid "Management type"
-msgstr "Tipo de gerência"
+msgstr "-"
 
 #: src/NotificationTargetProject.php:61 src/NotificationTargetProject.php:643 src/Project.php:641 src/Project.php:1166
 #: src/Project.php:1663 src/Project.php:2528 src/Group_User.php:208 src/Group_User.php:248 src/Group_User.php:286
@@ -13074,9 +13074,9 @@ msgstr "Memcached"
 #: src/Config.php:1673 src/Printer.php:524
 msgid "Memory"
 msgid_plural "Memories"
-msgstr[0] "Memória"
-msgstr[1] "Memórias"
-msgstr[2] "Memórias"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/DeviceGraphicCard.php:60 src/DeviceGraphicCard.php:102
 msgid "Memory by default"
@@ -13297,7 +13297,7 @@ msgstr[2] "Minutos"
 #: src/DeviceMemory.php:58 src/NetworkEquipment.php:438 src/Database.php:111 src/Database.php:307 src/Database.php:459
 #: src/ComputerVirtualMachine.php:293 src/DeviceHardDrive.php:58 src/DeviceHardDrive.php:69 src/Item_DeviceMemory.php:57
 msgid "Mio"
-msgstr "MB"
+msgstr "-"
 
 #: src/GLPIUploadHandler.php:62
 msgid "Missing a temporary folder"
@@ -13689,9 +13689,9 @@ msgstr[2] "Modelos de placa de rede"
 #: src/NetworkEquipment.php:79
 msgid "Network device"
 msgid_plural "Network devices"
-msgstr[0] "Dispositivo de rede"
-msgstr[1] "Dispositivos de rede"
-msgstr[2] "Dispositivos de rede"
+msgstr[0] "CIAs"
+msgstr[1] "CIAs"
+msgstr[2] "CIAs"
 
 #: templates/pages/admin/inventory/agent.html.twig src/Agent/Communication/AbstractRequest.php:182 src/Agent.php:205
 msgid "Network discovery (SNMP)"
@@ -13828,9 +13828,9 @@ msgstr[2] "Modelos de equipamento de rede"
 #: src/Rule.php:426 src/NetworkEquipmentType.php:41
 msgid "Networking equipment type"
 msgid_plural "Networking equipment types"
-msgstr[0] "Tipo de equipamento de rede"
-msgstr[1] "Tipos de equipamento de rede"
-msgstr[2] "Tipos de equipamento de rede"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: templates/generic_show_form.html.twig templates/pages/management/contract.html.twig
 #: templates/pages/setup/general/general_setup.html.twig src/LevelAgreement.php:188 src/Html.php:6919
@@ -18258,9 +18258,9 @@ msgstr "SMTP+TLS"
 #: src/SNMPCredential.php:49
 msgid "SNMP credential"
 msgid_plural "SNMP credentials"
-msgstr[0] "Credenciais SNMP"
-msgstr[1] "Credenciais SNMP"
-msgstr[2] "Credenciais SNMP"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: templates/components/form/snmpcredential.html.twig
 msgid "SNMP version"
@@ -19774,7 +19774,7 @@ msgstr "Sincronização de usuários já importados"
 
 #: templates/generic_show_form.html.twig src/Unmanaged.php:184
 msgid "Sysdescr"
-msgstr "Descrição de host (Sysdescr)"
+msgstr "-"
 
 #: src/Event.php:157 src/Config.php:2447
 msgid "System"
@@ -21778,7 +21778,7 @@ msgstr "Campo(s) único(s)"
 
 #: src/Dropdown.php:2389 src/Dropdown.php:2402 src/Dropdown.php:2404 src/Dropdown.php:2470 src/Config.php:456
 msgid "Unit management"
-msgstr "Gerência de unidade"
+msgstr "-"
 
 #: templates/components/form/inventory_info.html.twig src/GLPINetwork.php:117 src/GLPINetwork.php:122
 #: src/NetworkPort.php:1020 src/NetworkPort.php:1225 src/Agent.php:738 src/Agent.php:759
