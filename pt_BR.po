@@ -44,7 +44,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-24 10:41+0000\n"
-"PO-Revision-Date: 2023-08-24 21:04-0300\n"
+"PO-Revision-Date: 2023-08-25 01:59-0300\n"
 "Last-Translator: Eduardo de Oliveira <eduardomozart182@gmail.com>, 2023\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/glpi/teams/1637/pt_BR/)\n"
 "Language: pt_BR\n"
@@ -5626,9 +5626,9 @@ msgstr "Comando utilizado"
 #: src/ComputerVirtualMachine.php:286
 msgid "Comment"
 msgid_plural "Comments"
-msgstr[0] "Notas"
-msgstr[1] "Notas"
-msgstr[2] "Notas"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/KnowbaseItem.php:2303
 msgid "Comment KB entries"
@@ -5711,9 +5711,9 @@ msgstr "Nome completo"
 #: front/devices.php:40 front/devices.php:44
 msgid "Component"
 msgid_plural "Components"
-msgstr[0] "Componente"
-msgstr[1] "Componentes"
-msgstr[2] "Componentes"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/Computer.php:83 src/Profile.php:1012 src/Profile.php:2214
 msgid "Computer"
@@ -10564,7 +10564,7 @@ msgstr "Impacto"
 
 #: src/Impact.php:68 src/Impact.php:124 src/Impact.php:755
 msgid "Impact analysis"
-msgstr "Análise de impacto"
+msgstr "-"
 
 #: src/Impact.php:1790
 msgid "Impact analysis configuration"
@@ -12187,9 +12187,9 @@ msgstr "Linear"
 #: src/ContentTemplates/Parameters/CommonITILObjectParameters.php:64 src/ManualLink.php:80
 msgid "Link"
 msgid_plural "Links"
-msgstr[0] "Link"
-msgstr[1] "Links"
-msgstr[2] "Links"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/Ticket.php:2685
 msgctxt "button"
@@ -13739,9 +13739,9 @@ msgstr "Tempo limite do inventário de rede"
 #: src/NetworkName.php:69
 msgid "Network name"
 msgid_plural "Network names"
-msgstr[0] "Nome de rede"
-msgstr[1] "Nomes de rede"
-msgstr[2] "Nomes de rede"
+msgstr[0] "-"
+msgstr[1] "­-"
+msgstr[2] "-"
 
 #: templates/pages/assets/socket.html.twig src/NetworkPort.php:178 src/Socket.php:735 src/Transfer.php:3924
 msgid "Network port"
@@ -13801,9 +13801,9 @@ msgstr "Relatório de rede por ponto de rede: %s"
 #: src/Socket.php:855 src/Socket.php:888
 msgid "Network socket"
 msgid_plural "Network sockets"
-msgstr[0] "Ponto de rede"
-msgstr[1] "Pontos de rede"
-msgstr[2] "Pontos de rede"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/Socket.php:934 src/Socket.php:1027
 #, php-format
@@ -15192,14 +15192,14 @@ msgstr "Data de abertura"
 
 #: src/Item_OperatingSystem.php:363
 msgid "Operating System"
-msgstr "Sistema operacional"
+msgstr "-"
 
 #: src/OperatingSystem.php:44
 msgid "Operating system"
 msgid_plural "Operating systems"
-msgstr[0] "Sistema operacional"
-msgstr[1] "Sistemas operacionais"
-msgstr[2] "Sistemas operacionais"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/OperatingSystemArchitecture.php:44
 msgid "Operating system architecture"
@@ -19181,9 +19181,9 @@ msgstr "Aumenta consideravelmente a performance."
 #: src/Socket.php:338
 msgid "Socket"
 msgid_plural "Sockets"
-msgstr[0] "Ponto"
-msgstr[1] "Pontos"
-msgstr[2] "Pontos"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/Socket.php:963
 msgid "Socket Model"
@@ -22802,9 +22802,9 @@ msgstr "Voltagem"
 #: src/Item_Disk.php:55 src/Item_Disk.php:391
 msgid "Volume"
 msgid_plural "Volumes"
-msgstr[0] "Volume"
-msgstr[1] "Volumes"
-msgstr[2] "Volumes"
+msgstr[0] "-"
+msgstr[1] "-"
+msgstr[2] "-"
 
 #: src/ITILSolution.php:409 src/CommonITILValidation.php:529
 msgid "Waiting for approval"
